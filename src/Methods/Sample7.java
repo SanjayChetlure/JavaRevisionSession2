@@ -2,6 +2,8 @@ package Methods;
 
 public class Sample7 
 {
+	//5: method without parameter
+	
 	public static void main(String[] args) 
 	{
 		//1: static method call from same class
