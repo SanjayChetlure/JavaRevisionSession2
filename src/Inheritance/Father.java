@@ -13,7 +13,7 @@ public class Father
 		System.out.println("moeny");
 	}
 	
-	public void home() 
+	public static void home() 
 	{
 		System.out.println("home");
 	}

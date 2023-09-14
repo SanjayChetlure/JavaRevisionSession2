@@ -8,6 +8,6 @@ public class Example1_singleLevelInheritance
 		s.mobile();
 		s.car();
 		s.money();
-		s.home();	
+		Son.home();	
 	}
 }
